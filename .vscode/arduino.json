@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "Firmware\\Test\\Test.ino",
+    "programmer": "AVR ISP",
+    "output": "build"
+}

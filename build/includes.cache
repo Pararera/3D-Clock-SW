@@ -1,0 +1,137 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\silvi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\silvi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "SerialBuffer.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Serial-buffer"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "CommandHandler.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Command-Handler"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "RTClib.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\RTClib"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "Rotary.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Rotary"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "FastLED.h",
+    "Includepath": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED"
+  },
+  {
+    "Sourcefile": "c:\\Users\\silvi\\OneDrive\\Projekti\\3D-Clock-SW\\build\\sketch\\Test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Serial-buffer\\SerialBuffer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Command-Handler\\CommandHandler.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\DHT_sensor_library\\DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\RTClib\\RTClib.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\silvi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\RTClib\\RTClib.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\Rotary\\Rotary.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\FastLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\bitswap.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\colorpalettes.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\colorutils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\hsv2rgb.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\lib8tion.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\noise.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\platforms.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\power_mgt.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\Documents\\Arduino\\libraries\\FastLED\\wiring.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\silvi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
